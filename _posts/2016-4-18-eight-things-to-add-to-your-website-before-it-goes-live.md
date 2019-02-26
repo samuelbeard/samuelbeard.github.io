@@ -30,13 +30,13 @@ Meta tags can organise the content on the page so that companies like Google and
 Some useful meta tags:
 
 ```html
-Description
+<!-- Description -->
 <meta name=”description” content=”A description of the page. 155 characters long or less.”>
 
-Author
+<!-- Author -->
 <meta name="author" content="Samuel Beard">
 
-Display well on Facebook
+<!-- Display well on Facebook -->
 <meta property=”og:title” content=”Title on Facebook”/>
 <meta property=”og:type” content=”article”/>
 <meta property=”og:image” content=”image.jpg”/>
