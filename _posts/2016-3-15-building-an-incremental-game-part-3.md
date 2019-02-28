@@ -1,10 +1,6 @@
 ---
-layout: post
 title: "Building an Incremental Game | Part 3"
 published: true
-tags: [tutorial]
-image:
-        feature: incremental-game.png
 ---
 
 ![](https://github.com/samuelbeard/samuelbeard.github.io/blob/master/images/blogimg1.jpg?raw=true)

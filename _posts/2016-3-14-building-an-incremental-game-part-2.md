@@ -1,10 +1,6 @@
 ---
-layout: post
 title: "Building an Incremental Game | Part 2"
 published: true
-tags: [tutorial]
-image:
-        feature: incremental-game.png
 ---
 
 Welcome back to this blog series where we are learning about how to make an incremental game. If you missed part 1, you can see it [HERE](http://samuelbeard.github.io/building-an-incremental-game-part-1/).

@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Getting notifications from your Raspberry Pi
-tags: [raspberry pi, tutorial]
 published: false
 ---
 

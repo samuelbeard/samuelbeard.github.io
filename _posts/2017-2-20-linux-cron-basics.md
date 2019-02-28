@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Linux | Cron Basics"
 published: false
-tags: [resource]
 ---
 
 ## What is Cron?

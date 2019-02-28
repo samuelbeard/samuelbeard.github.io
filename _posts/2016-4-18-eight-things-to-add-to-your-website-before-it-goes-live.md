@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "Eight things to add to your website before it goes live."
 published: true
-tags: [resource, list]
-bigimg: /img/eight-things-to-add-to-your-website/feature.png
 ---
 
 ## 1. Android Address Bar Colour

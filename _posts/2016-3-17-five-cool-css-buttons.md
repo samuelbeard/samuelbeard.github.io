@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Five CSS Buttons with Cool Hover Effects"
 published: true
-tags: [resource]
 ---
 
 I was playing around with CSS transitions and put together these five experimental buttons that I thought looked pretty cool. The effects aren't over the top and can be used in a project quite nicely.

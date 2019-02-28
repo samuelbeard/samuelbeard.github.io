@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Python Automation | Navigating Websites Using Selenium"
 published: false
-tags: [resource]
 ---
 
 <!--

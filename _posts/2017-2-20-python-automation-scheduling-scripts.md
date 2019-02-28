@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Python Automation | Scheduling Scripts"
 published: false
-tags: [resource]
 ---
 
 Here is how to either run code at either a set time every hour, day or week OR run code on boot.
